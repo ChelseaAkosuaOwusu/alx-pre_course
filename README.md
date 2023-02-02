@@ -1,1 +1,1 @@
-README in als-pre_course
+README in alx-pre_course
