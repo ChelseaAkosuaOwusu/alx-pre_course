@@ -1,1 +1,1 @@
-My first readme.
+README in als-pre_course
